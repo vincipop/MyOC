@@ -1,0 +1,16 @@
+/* CSS pour le projet MyOC */
+
+.end
+{
+	color: green;
+}
+
+.inprogress
+{
+	color: red;
+}
+
+.soon
+{
+	color: orange;
+}
